@@ -1,5 +1,6 @@
 
 <h2>This is a very simple example to control de GPIO outputs</h2>
+<p>is a continuity of this project https://gist.github.com/abishur who i felt more inspirate </p>
 
 <p>this small project is the continuity of a example to help you understand
 GPIO functionality, you can take the example and modify if you want. 
@@ -18,3 +19,4 @@ and transfer the sql file to your database MySQL.
 </b>
 <p>After all there a version manual mode <b>control_basic.php</b> where you can test also your status, feel free to modify 
 as much as you want
+
